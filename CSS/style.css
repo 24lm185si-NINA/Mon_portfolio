@@ -168,7 +168,8 @@ section h2::after{
 .competences table th, .competences table td{
     padding: 15px;
 
-}.competences table thead{
+}
+.competences table thead{
     background-color: var(--violet-doux);
     color: #FFF;
     text-transform: uppercase
@@ -213,6 +214,10 @@ footer a:hover {
     color: var(--orange-vif);
     transform:translateY(-3px);
 }
+
+
+
+
 
     
 
